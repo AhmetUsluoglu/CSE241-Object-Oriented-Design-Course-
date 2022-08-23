@@ -1,0 +1,1 @@
+typeSearchIndex = [{"l":"All Classes and Interfaces","u":"allclasses-index.html"},{"p":"Peg","l":"IPegSolitaire"},{"p":"Peg","l":"PegSolitaire"},{"p":"<Unnamed>","l":"test"}];updateSearchResults();
