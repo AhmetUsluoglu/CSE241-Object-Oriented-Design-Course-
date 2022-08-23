@@ -16,8 +16,3 @@ Assignment  | Language | Description
 - Topics of this lesson are; Introduction to C++ programming, C++ Basics, Flow Of Control, Functions, Functions & Parameters and Overloading, Arrays & Pointers and Strings, Classes and Data Abstraction, Method Overriding, Operator Overloading, Virtual Functions and Polymorphism, Templates, Exception Handling, Standard Template Library, Move Semantics, Introduction to Java and comparison with C++.
 ## Course Details
 - https://abl.gtu.edu.tr/ects/?duzey=ucuncu&modul=ders_bilgi_formu&dno=B%C4%B0L%20241&tip=lisans&bolum=104&dil=en
-
-## Peg Solitaire Game
-<p align="center">
-  <img src="https://commons.wikimedia.org/wiki/File:Spielzug_von_Solit%C3%A4r.gif">
-</p>
